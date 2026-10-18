@@ -2,12 +2,14 @@ import { projects } from "../src/data/projects";
 import ProjectCard from "../src/components/projects/ProjectCard";
 import Hero from "../src/components/sections/Hero";
 import Footer from "../src/components/sections/Footer";
+import About from "../src/components/sections/About";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-grow bg-slate-50">
         <Hero />
+        <About />
         
         <div className="py-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-5xl mx-auto">
