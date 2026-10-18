@@ -13,7 +13,7 @@ export default function Footer() {
           <a href="https://github.com/DantinoN" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
             GitHub
           </a>
-          <a href="https://www.linkedin.com/in/danton-coelho-b1092739" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+          <a href="https://www.linkedin.com/in/danton-coelho-b10927399/?isSelfProfile=true" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
             LinkedIn
           </a>
           <a href="mailto:dantoncoelho02@gmail.com" className="text-slate-400 hover:text-white transition-colors">
